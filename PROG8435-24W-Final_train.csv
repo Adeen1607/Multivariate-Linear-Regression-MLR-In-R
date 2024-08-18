@@ -1,0 +1,913 @@
+"Index","Age","Serverity","Surgical.Medical","Anxiety","Type","Marital","FSA","Satisfaction"
+1,71,56,1,7,"Orthopedic",0,"S5U",44
+2,64,62,0,4.6,"No Surgery",1,"C7C",41
+3,41,50,1,4.2,"Plastic Surgery",1,"D9H",68
+4,58,40,0,6,"No Surgery",1,"F8U",63
+5,29,34,1,6.6,"Abdominal",1,"W1J",98
+6,47,29,0,4.3,"No Surgery",1,"L0W",73
+7,27,63,0,5.3,"No Surgery",0,"I7K",84
+8,75,52,1,5.6,"Abdominal",1,"Z4Y",51
+9,69,30,0,6.6,"No Surgery",0,"S9Q",53
+10,53,45,1,2.2,"Cardiovascular",1,"T9M",65
+11,78,55,0,4.5,"No Surgery",1,"B1L",46
+12,67,37,1,5.9,"Abdominal",0,"J4W",55
+13,59,56,1,2.2,"Plastic Surgery",1,"J7Y",60
+14,63,45,1,3.9,"Abdominal",1,"U2U",65
+15,28,52,0,7.2,"No Surgery",1,"K9B",78
+16,37,42,0,3.8,"No Surgery",0,"T0Y",88
+17,48,54,1,3.7,"Cardiovascular",1,"S8S",81
+18,40,53,1,7.5,"Plastic Surgery",1,"F5U",83
+19,68,64,0,3.5,"No Surgery",0,"Z9L",46
+20,29,52,1,4.7,"Orthopedic",1,"E5K",85
+21,45,44,1,6.7,"Neuro",0,"E1F",81
+22,39,45,1,3.8,"Orthopedic",1,"V2X",82
+23,54,37,1,3.3,"Abdominal",1,"J0Y",72
+24,32,34,1,4.5,"Orthopedic",1,"R9J",86
+25,66,46,1,7.4,"Orthopedic",1,"G5V",49
+26,63,39,0,5.1,"No Surgery",1,"H8L",62
+27,74,66,1,4.1,"Abdominal",0,"K0Z",52
+28,67,51,0,7.3,"No Surgery",1,"P3H",40
+29,49,65,1,3.1,"Orthopedic",0,"P8I",64
+30,74,55,1,3.8,"Cardiovascular",1,"I3Q",54
+31,43,55,1,2.8,"Orthopedic",1,"Z4Y",72
+32,34,43,1,6.9,"Cardiovascular",1,"I7C",77
+33,32,43,1,5,"Orthopedic",1,"N6S",85
+34,35,41,1,3.8,"Abdominal",1,"F8A",85
+35,61,49,0,4,"No Surgery",1,"X5Z",54
+36,68,47,0,4.7,"No Surgery",1,"P0W",51
+37,32,62,1,5.5,"Abdominal",0,"K1B",88
+38,58,48,0,6.5,"No Surgery",1,"V3F",63
+39,44,40,1,6.5,"Orthopedic",1,"F1K",74
+40,33,41,0,4.9,"No Surgery",0,"H4S",85
+41,41,53,1,4.4,"Orthopedic",1,"F8U",72
+42,35,46,1,6.3,"Plastic Surgery",1,"R6E",86
+43,37,47,1,3.7,"Plastic Surgery",0,"U2L",76
+44,44,36,0,3.4,"No Surgery",1,"F7R",86
+45,47,53,1,3.2,"Plastic Surgery",0,"S6H",69
+46,28,52,0,4.9,"No Surgery",1,"B6L",86
+47,46,41,1,6.2,"Plastic Surgery",1,"G1Y",73
+48,39,38,0,4.5,"No Surgery",1,"J2B",85
+49,49,36,0,5.8,"No Surgery",1,"X8R",79
+50,26,41,1,5.2,"Orthopedic",1,"D1H",85
+51,28,58,0,6.3,"No Surgery",1,"F4D",81
+52,50,49,0,4,"No Surgery",1,"B8N",69
+53,61,47,0,7.7,"No Surgery",1,"K7S",60
+54,34,30,0,2.6,"No Surgery",1,"Q0C",83
+55,69,51,1,5.2,"Plastic Surgery",1,"O9G",70
+56,74,50,1,6.7,"Orthopedic",1,"C9R",45
+57,48,57,0,6.9,"No Surgery",1,"J3Z",75
+58,43,53,0,3.6,"No Surgery",0,"K1V",69
+59,34,45,0,4.7,"No Surgery",0,"I5F",81
+60,70,47,0,4.7,"No Surgery",0,"P9G",51
+61,49,53,0,7.1,"No Surgery",1,"U7C",59
+62,30,32,1,4.1,"Abdominal",1,"X9I",91
+63,31,55,0,2.3,"No Surgery",1,"Z1O",86
+64,75,50,1,4.8,"Cardiovascular",1,"I3C",41
+65,66,58,1,3.4,"Abdominal",1,"E7L",53
+66,24,56,1,5.9,"Neuro",1,"A6U",94
+67,76,45,1,4.4,"Cardiovascular",1,"G8A",46
+68,66,46,1,5.7,"Abdominal",0,"O2L",52
+69,46,52,1,5.5,"Cardiovascular",1,"V6O",71
+70,71,41,0,3.7,"No Surgery",1,"B7L",42
+71,66,55,0,4.5,"No Surgery",1,"E9Z",44
+72,30,56,0,6.5,"No Surgery",1,"X2V",81
+73,27,54,0,2.4,"No Surgery",1,"U7T",87
+74,66,42,0,4.7,"No Surgery",0,"M1D",62
+75,27,50,1,5.2,"Cardiovascular",1,"J9N",85
+76,66,48,1,5.6,"Cardiovascular",1,"R9A",59
+77,52,67,1,2.5,"Cardiovascular",1,"Z0H",59
+78,40,39,0,2.2,"No Surgery",1,"R5B",82
+79,65,42,0,4.8,"No Surgery",1,"X2K",63
+80,70,51,1,6.9,"Neuro",1,"H9T",51
+81,28,41,1,6,"Orthopedic",1,"F2M",91
+82,44,49,0,4.5,"No Surgery",1,"A2K",79
+83,71,62,1,4.3,"Cardiovascular",0,"Q8A",56
+84,41,36,1,7.3,"Plastic Surgery",0,"M4O",81
+85,52,53,1,4.3,"Cardiovascular",1,"T3U",62
+86,46,31,1,2.6,"Orthopedic",1,"N0L",74
+87,51,48,0,5,"No Surgery",0,"T7I",69
+88,27,49,1,5.5,"Abdominal",1,"Q9S",92
+89,45,43,0,4.3,"No Surgery",1,"K0L",75
+90,25,39,0,5.9,"No Surgery",1,"Q3I",93
+91,24,61,0,3,"No Surgery",0,"J2C",86
+92,25,43,1,4,"Cardiovascular",1,"N1Z",90
+93,30,56,0,5.7,"No Surgery",1,"H4F",81
+94,74,54,1,4.8,"Plastic Surgery",0,"R3Q",45
+95,36,54,1,5.4,"Orthopedic",1,"H9G",82
+96,50,44,1,4.4,"Orthopedic",1,"G7U",71
+97,26,55,1,4.6,"Neuro",1,"W4F",83
+98,40,49,0,6.3,"No Surgery",1,"Y9V",74
+99,59,38,1,6.3,"Plastic Surgery",1,"M9R",62
+100,51,45,0,2.9,"No Surgery",1,"P1W",64
+101,78,50,0,5.2,"No Surgery",0,"Y9F",33
+102,59,46,1,2.6,"Abdominal",0,"R9Q",62
+103,70,51,0,4.4,"No Surgery",1,"W9E",53
+104,62,51,1,6.4,"Cardiovascular",1,"N0Q",58
+105,48,29,1,4.7,"Plastic Surgery",1,"Y3S",76
+106,31,37,1,7.5,"Neuro",1,"I6K",84
+107,27,29,1,2.7,"Plastic Surgery",1,"D4W",87
+108,67,35,1,4.3,"Neuro",1,"P9U",65
+109,75,54,1,6,"Neuro",1,"O1N",39
+110,48,38,1,5.9,"Cardiovascular",1,"L2F",80
+111,47,50,0,6,"No Surgery",1,"D8T",79
+112,41,61,0,4,"No Surgery",0,"W5R",72
+113,64,38,0,4.8,"No Surgery",1,"V5C",54
+114,75,65,1,4.7,"Plastic Surgery",0,"W2Y",36
+115,60,42,1,7,"Abdominal",1,"J7Y",57
+116,77,50,0,7.1,"No Surgery",0,"L8S",42
+117,63,63,1,2.9,"Abdominal",1,"Y8S",61
+118,64,53,0,6.9,"No Surgery",0,"P8N",62
+119,75,56,1,6.2,"Neuro",1,"C6N",30
+120,50,47,1,5,"Plastic Surgery",0,"F2I",58
+121,43,42,1,3.5,"Neuro",0,"O9C",80
+122,63,65,0,4.1,"No Surgery",0,"C5E",61
+123,66,56,1,4.7,"Plastic Surgery",0,"E5N",45
+124,44,58,1,3.9,"Neuro",0,"I7P",81
+125,76,46,1,4.8,"Plastic Surgery",1,"H1A",51
+126,47,57,0,5.8,"No Surgery",0,"C6V",72
+127,66,59,0,5.2,"No Surgery",1,"Q3O",41
+128,52,54,0,3.8,"No Surgery",1,"U9X",71
+129,55,53,0,5.7,"No Surgery",1,"X6K",45
+130,55,51,0,7.2,"No Surgery",0,"X1J",65
+131,34,32,1,4,"Orthopedic",1,"A2T",81
+132,27,56,0,4,"No Surgery",1,"Z6K",83
+133,55,34,0,3.9,"No Surgery",1,"Z2W",66
+134,64,39,0,6.1,"No Surgery",1,"R7P",68
+135,55,51,0,3.6,"No Surgery",0,"D0H",65
+136,61,39,0,3.6,"No Surgery",1,"Y6X",58
+137,56,54,0,3.1,"No Surgery",0,"X3Q",63
+138,64,51,0,4.5,"No Surgery",1,"J7A",56
+139,29,46,0,4.7,"No Surgery",1,"B4C",85
+140,51,57,1,4.6,"Neuro",1,"H7Q",67
+141,62,39,0,3.8,"No Surgery",0,"A4U",66
+142,43,42,1,4.3,"Neuro",0,"G3W",79
+143,47,49,1,3.9,"Neuro",1,"G0L",70
+144,67,47,1,6.9,"Orthopedic",1,"U5M",55
+145,27,40,1,2.3,"Cardiovascular",1,"H1A",95
+146,27,46,1,6.5,"Abdominal",1,"Q0F",91
+147,33,45,0,7.5,"No Surgery",1,"D7I",83
+148,63,53,0,7.1,"No Surgery",0,"X8D",51
+149,51,74,1,5.2,"Orthopedic",1,"A3V",58
+150,62,33,0,4.4,"No Surgery",1,"Y0X",59
+151,48,52,1,6.6,"Abdominal",1,"B8V",73
+152,38,25,0,4.9,"No Surgery",1,"S0A",84
+153,77,40,1,6.7,"Plastic Surgery",1,"Y6K",37
+154,64,44,0,6.7,"No Surgery",1,"K0K",54
+155,61,55,1,4.3,"Neuro",1,"A6P",62
+156,43,42,0,5.1,"No Surgery",1,"G5X",83
+157,46,46,1,2.4,"Plastic Surgery",1,"B9E",71
+158,75,50,0,7.6,"No Surgery",1,"F4E",42
+159,69,43,1,3.7,"Orthopedic",1,"Q1I",52
+160,55,44,1,3.5,"Abdominal",0,"O3J",66
+161,57,48,1,3.9,"Abdominal",1,"U9N",66
+162,49,49,1,6.2,"Plastic Surgery",1,"C9O",65
+163,29,53,0,4.4,"No Surgery",1,"F5N",79
+164,36,41,0,6,"No Surgery",1,"O3D",80
+165,71,41,1,4.7,"Cardiovascular",1,"W5B",52
+166,74,50,1,6.3,"Abdominal",1,"R2S",37
+167,55,64,1,6.9,"Abdominal",0,"R3S",53
+168,26,40,1,2.8,"Neuro",1,"W8M",90
+169,41,45,0,3.6,"No Surgery",1,"D6N",74
+170,61,50,0,4,"No Surgery",1,"E7R",51
+171,28,48,1,3.8,"Neuro",1,"P2L",84
+172,45,40,0,3.4,"No Surgery",1,"A9K",77
+173,38,39,0,3.3,"No Surgery",1,"C6I",80
+174,39,54,1,4.7,"Abdominal",1,"T5N",77
+175,66,65,1,5.9,"Abdominal",0,"T2M",45
+176,59,44,1,4.8,"Abdominal",0,"Q7Y",64
+177,42,44,1,3.1,"Plastic Surgery",1,"T7H",74
+178,65,66,0,3.6,"No Surgery",1,"G5X",54
+179,41,22,0,6.4,"No Surgery",1,"Q9W",85
+180,56,45,1,4.5,"Orthopedic",0,"O9K",55
+181,44,35,0,6.5,"No Surgery",1,"U4W",81
+182,69,62,0,4.8,"No Surgery",1,"Z9J",61
+183,68,35,0,2.8,"No Surgery",1,"Z5B",53
+184,47,45,0,2.6,"No Surgery",1,"K7S",67
+185,64,44,0,6.4,"No Surgery",1,"K9I",61
+186,27,27,1,5,"Cardiovascular",1,"H8U",91
+187,58,34,0,7.8,"No Surgery",0,"L6N",60
+188,43,37,0,6.6,"No Surgery",1,"J6H",81
+189,63,50,1,2.2,"Abdominal",0,"I1E",48
+190,68,50,1,3.5,"Abdominal",1,"O6R",51
+191,44,63,0,2.8,"No Surgery",0,"I2X",74
+192,51,62,1,5.8,"Neuro",1,"P1L",63
+193,62,30,1,6.4,"Plastic Surgery",1,"I8E",65
+194,43,43,0,5.6,"No Surgery",1,"W3W",75
+195,78,53,0,5.6,"No Surgery",1,"C1N",51
+196,51,38,1,5.2,"Abdominal",0,"X6L",71
+197,73,41,0,3.5,"No Surgery",0,"L4R",47
+198,43,56,1,6.3,"Orthopedic",1,"W2P",71
+199,46,43,1,6.1,"Plastic Surgery",1,"V4K",77
+200,38,31,0,3.5,"No Surgery",1,"F9S",78
+201,72,47,1,3,"Neuro",1,"Q1E",66
+202,76,47,1,3.3,"Cardiovascular",0,"K0E",45
+203,40,56,1,5.9,"Neuro",0,"S2C",73
+204,59,34,1,4.2,"Orthopedic",0,"T5U",67
+205,67,44,0,4.2,"No Surgery",0,"D2P",51
+206,55,60,0,6,"No Surgery",0,"S5T",72
+207,61,41,1,3.4,"Cardiovascular",1,"A0D",60
+208,40,41,0,5.5,"No Surgery",1,"J4U",74
+209,36,31,0,4.9,"No Surgery",1,"J0S",79
+210,42,35,1,2.6,"Orthopedic",1,"S5J",86
+211,45,37,0,4.7,"No Surgery",1,"E7G",81
+212,49,57,1,4,"Cardiovascular",1,"J7F",65
+213,72,46,1,3.9,"Abdominal",0,"L4G",43
+214,41,58,0,4.8,"No Surgery",1,"D5C",74
+215,65,51,1,6.6,"Neuro",1,"M8S",73
+216,42,56,0,3.5,"No Surgery",0,"X3U",67
+217,36,55,1,3.6,"Plastic Surgery",1,"I3Q",81
+218,39,52,1,5,"Cardiovascular",1,"B7Q",77
+219,30,65,1,2.7,"Abdominal",1,"R6R",82
+220,72,53,1,3.9,"Abdominal",0,"U8U",49
+221,59,56,0,3,"No Surgery",1,"O5L",54
+222,51,35,1,5.1,"Plastic Surgery",1,"D2K",70
+223,64,36,1,3.2,"Cardiovascular",1,"R9F",60
+224,33,59,1,5.8,"Cardiovascular",0,"K5R",90
+225,36,53,0,5.2,"No Surgery",1,"K1Q",82
+226,35,50,1,4.6,"Neuro",0,"R5M",78
+227,40,43,0,4.8,"No Surgery",1,"Y2A",86
+228,45,48,0,3,"No Surgery",0,"K6H",73
+229,65,52,1,4,"Abdominal",1,"G6J",62
+230,72,49,0,6.5,"No Surgery",0,"G4Z",36
+231,62,49,0,6.2,"No Surgery",1,"Y7D",51
+232,41,55,1,7.2,"Plastic Surgery",0,"J8S",91
+233,73,30,1,6,"Abdominal",0,"M0C",54
+234,66,59,1,4.7,"Plastic Surgery",0,"L8I",55
+235,52,49,1,3.2,"Orthopedic",0,"K2F",71
+236,29,47,0,6,"No Surgery",1,"U0R",82
+237,56,53,0,3.3,"No Surgery",1,"V1C",59
+238,53,50,0,5.8,"No Surgery",1,"C5M",72
+239,44,66,0,5.6,"No Surgery",1,"N6Q",71
+240,73,44,0,5.6,"No Surgery",0,"S2P",52
+241,55,52,0,5,"No Surgery",1,"T5S",68
+242,64,34,1,6.5,"Orthopedic",0,"I9O",47
+243,77,39,1,4.1,"Neuro",0,"J3V",49
+244,34,45,0,4.7,"No Surgery",1,"L1L",88
+245,71,42,0,4.5,"No Surgery",1,"Q5G",61
+246,39,64,0,2.6,"No Surgery",1,"F7S",79
+247,50,36,1,4.6,"Neuro",0,"T3G",74
+248,51,39,0,3.8,"No Surgery",1,"E1H",68
+249,55,57,1,5.7,"Cardiovascular",1,"U3T",62
+250,62,40,0,5.2,"No Surgery",0,"Z9W",62
+251,48,55,0,6.9,"No Surgery",1,"S4Q",66
+252,59,48,0,5.8,"No Surgery",1,"O9L",45
+253,54,47,0,3.8,"No Surgery",0,"H2T",68
+254,34,51,1,4.2,"Plastic Surgery",1,"A4V",77
+255,70,55,0,5,"No Surgery",1,"H3Y",52
+256,61,52,1,3,"Plastic Surgery",1,"O6X",54
+257,65,48,0,5.9,"No Surgery",1,"T4C",48
+258,30,56,1,2.7,"Abdominal",1,"B8X",86
+259,29,59,1,6.9,"Cardiovascular",1,"A4O",76
+260,56,59,0,5.5,"No Surgery",1,"B4E",59
+261,40,38,1,5.6,"Abdominal",1,"H4C",77
+262,26,39,0,2.8,"No Surgery",1,"R3P",86
+263,63,38,0,6.5,"No Surgery",1,"J4K",64
+264,74,52,0,3.4,"No Surgery",0,"B3G",52
+265,78,43,1,4.5,"Abdominal",1,"W4W",33
+266,55,49,1,3.2,"Plastic Surgery",1,"N9L",65
+267,71,36,1,6.3,"Plastic Surgery",1,"O6U",46
+268,46,58,0,4.7,"No Surgery",1,"G4X",64
+269,59,48,1,4.2,"Cardiovascular",0,"Q3T",65
+270,67,33,1,5.7,"Plastic Surgery",1,"F5X",55
+271,51,61,1,3.2,"Abdominal",1,"M5M",61
+272,61,37,1,4.1,"Cardiovascular",0,"W7Z",55
+273,75,45,1,5.4,"Abdominal",1,"N3M",49
+274,49,54,0,5.4,"No Surgery",0,"U1A",64
+275,71,41,0,4.9,"No Surgery",0,"Q8B",61
+276,77,62,1,3.9,"Cardiovascular",1,"V7L",26
+277,38,47,1,2.3,"Cardiovascular",0,"J2N",77
+278,48,33,1,6.6,"Orthopedic",0,"H2Y",73
+279,35,52,1,5.2,"Neuro",1,"I3R",89
+280,62,50,0,4.8,"No Surgery",1,"I4F",57
+281,26,55,1,4.5,"Orthopedic",0,"S1B",83
+282,59,40,0,2.4,"No Surgery",0,"J1G",55
+283,35,55,0,6.6,"No Surgery",1,"P5B",82
+284,51,47,1,5.6,"Abdominal",0,"B4K",67
+285,69,46,1,3.4,"Plastic Surgery",1,"R3Z",48
+286,52,36,1,5.1,"Orthopedic",0,"C7J",65
+287,27,61,1,5.7,"Cardiovascular",0,"E1D",90
+288,49,56,1,4.5,"Cardiovascular",0,"Z1F",68
+289,44,42,0,4.8,"No Surgery",1,"I7O",69
+290,33,46,1,6.5,"Orthopedic",1,"Z4A",82
+291,25,57,1,7.5,"Cardiovascular",1,"G8N",83
+292,27,48,1,5.6,"Plastic Surgery",1,"G1Q",85
+293,27,51,0,5.9,"No Surgery",1,"Q3F",81
+294,75,55,1,5,"Orthopedic",1,"U8N",40
+295,45,48,1,4.7,"Orthopedic",0,"O6B",73
+296,65,40,1,5.4,"Abdominal",0,"B1F",68
+297,47,40,1,3.9,"Orthopedic",0,"S2S",74
+298,60,70,1,7.3,"Cardiovascular",0,"O8G",63
+299,77,74,1,4.1,"Neuro",1,"E5J",48
+300,71,48,0,2.9,"No Surgery",1,"W0H",53
+301,29,44,1,7,"Abdominal",1,"Q5U",92
+302,64,47,0,4,"No Surgery",1,"S8N",59
+303,67,62,1,6,"Plastic Surgery",1,"Q7Q",44
+304,35,51,1,4.4,"Cardiovascular",0,"P3Q",78
+305,50,54,1,3.4,"Orthopedic",1,"E4B",75
+306,60,35,1,5.4,"Plastic Surgery",0,"C9V",67
+307,78,54,0,5,"No Surgery",1,"U3J",46
+308,70,53,1,3.1,"Cardiovascular",1,"C5L",55
+309,41,43,0,2.7,"No Surgery",1,"D9J",78
+310,25,40,0,4.3,"No Surgery",1,"F8Y",90
+311,26,39,0,2.8,"No Surgery",0,"J6J",85
+312,56,28,0,3.8,"No Surgery",0,"H8S",61
+313,36,44,0,6.7,"No Surgery",0,"R8L",89
+314,66,45,1,3.7,"Plastic Surgery",1,"L9Y",40
+315,67,44,1,5,"Plastic Surgery",1,"O5Z",49
+316,68,28,0,5.1,"No Surgery",1,"H5R",46
+317,38,52,1,4,"Plastic Surgery",0,"G3M",78
+318,50,39,0,5.2,"No Surgery",1,"Z4Z",73
+319,38,35,0,5.3,"No Surgery",1,"D3I",85
+320,77,56,1,5.3,"Plastic Surgery",1,"Y8J",40
+321,37,50,0,5.6,"No Surgery",1,"H9U",73
+322,59,20,1,4.1,"Plastic Surgery",1,"B3K",60
+323,35,46,0,4.5,"No Surgery",1,"K0V",87
+324,52,55,1,5.5,"Plastic Surgery",0,"G9D",68
+325,34,43,1,4.2,"Cardiovascular",0,"C3B",84
+326,44,41,0,6.6,"No Surgery",1,"Q3M",82
+327,37,49,1,4.1,"Cardiovascular",1,"J3Z",83
+328,55,51,0,4.4,"No Surgery",1,"E5K",74
+329,74,41,1,5.2,"Plastic Surgery",0,"O3F",56
+330,46,42,0,4.1,"No Surgery",1,"C1Q",76
+331,53,38,0,6.2,"No Surgery",0,"A5U",64
+332,70,68,1,5.2,"Plastic Surgery",0,"F7M",49
+333,45,56,0,5.3,"No Surgery",0,"J5V",65
+334,36,61,1,4.3,"Neuro",1,"A4R",73
+335,76,47,0,6.4,"No Surgery",1,"X1I",53
+336,42,40,0,6.9,"No Surgery",0,"E9P",76
+337,70,39,1,3.6,"Abdominal",1,"W7D",54
+338,41,61,0,6.2,"No Surgery",0,"P3O",76
+339,37,21,1,3.8,"Plastic Surgery",1,"M5B",80
+340,73,37,0,3.4,"No Surgery",1,"S2O",56
+341,72,61,0,6.7,"No Surgery",0,"Z8G",39
+342,65,56,0,2.9,"No Surgery",1,"Y2L",49
+343,37,38,1,2.7,"Plastic Surgery",1,"F3U",83
+344,42,52,0,6.2,"No Surgery",1,"S5L",75
+345,61,46,1,3.1,"Abdominal",1,"J2Y",67
+346,41,28,1,5.3,"Neuro",1,"X8C",78
+347,63,56,0,3.2,"No Surgery",1,"E2P",54
+348,53,49,0,5.4,"No Surgery",1,"R5L",60
+349,78,36,0,5.2,"No Surgery",0,"S6Z",48
+350,54,48,0,5.1,"No Surgery",1,"K3F",71
+351,64,52,0,2.5,"No Surgery",0,"E3Q",59
+352,79,50,1,6.3,"Orthopedic",1,"Q6I",51
+353,74,54,0,4.7,"No Surgery",1,"K7H",44
+354,78,40,0,4.4,"No Surgery",1,"H0K",58
+355,68,34,1,5.5,"Orthopedic",1,"J3H",56
+356,60,45,0,4.3,"No Surgery",0,"I9N",66
+357,60,38,1,4.4,"Orthopedic",1,"U5T",53
+358,37,57,1,6.8,"Plastic Surgery",0,"C3Y",70
+359,28,45,0,3.1,"No Surgery",1,"Q3U",86
+360,42,43,1,5,"Orthopedic",1,"F8E",78
+361,52,26,1,4.2,"Cardiovascular",0,"C8G",71
+362,46,68,1,7.5,"Cardiovascular",1,"H8V",67
+363,64,53,0,3.7,"No Surgery",1,"M2B",60
+364,74,40,0,3.8,"No Surgery",1,"B2R",47
+365,48,50,1,5.1,"Orthopedic",0,"G0E",74
+366,45,45,1,5,"Plastic Surgery",1,"K4Z",75
+367,55,57,0,5.3,"No Surgery",1,"Q8P",64
+368,35,32,1,2.8,"Neuro",1,"G2A",82
+369,28,45,1,3.1,"Orthopedic",1,"N4M",92
+370,73,59,1,3.4,"Plastic Surgery",1,"L0C",34
+371,61,64,1,6.2,"Plastic Surgery",1,"Q2E",58
+372,60,47,0,5.3,"No Surgery",1,"A5O",68
+373,43,32,0,3.6,"No Surgery",0,"C3A",86
+374,74,23,1,3.5,"Abdominal",1,"L8N",61
+375,62,31,1,5.6,"Abdominal",1,"W3A",61
+376,55,45,1,3.5,"Plastic Surgery",1,"S4O",67
+377,54,50,0,3.2,"No Surgery",1,"U5R",67
+378,55,36,0,7,"No Surgery",1,"W0Z",59
+379,40,33,0,4.2,"No Surgery",1,"T9P",79
+380,73,36,1,4.9,"Plastic Surgery",0,"T7V",39
+381,54,73,1,5.6,"Abdominal",1,"N3L",70
+382,-50,42,1,2.7,"Cardiovascular",1,"W3Y",69
+383,44,62,0,7,"No Surgery",1,"R7B",76
+384,36,70,1,2.3,"Plastic Surgery",1,"I1J",70
+385,39,34,1,5.3,"Cardiovascular",1,"C5C",78
+386,66,49,0,4.2,"No Surgery",1,"M1F",58
+387,36,51,1,3.8,"Plastic Surgery",0,"W3L",75
+388,35,68,1,5.8,"Plastic Surgery",1,"F9S",76
+389,28,55,1,6.4,"Abdominal",1,"E3A",86
+390,51,41,1,5,"Abdominal",0,"A8E",64
+391,76,66,1,4.9,"Plastic Surgery",1,"Y4P",46
+392,49,61,1,7.4,"Plastic Surgery",1,"J0T",66
+393,26,52,0,3.7,"No Surgery",1,"P7K",87
+394,39,50,1,4,"Abdominal",1,"W8V",87
+395,41,42,0,3.3,"No Surgery",1,"G0G",74
+396,79,50,0,3.9,"No Surgery",1,"C5R",34
+397,69,47,0,4.5,"No Surgery",1,"M2K",45
+398,67,50,0,3.6,"No Surgery",1,"D1I",59
+399,37,49,0,4.7,"No Surgery",1,"I8L",78
+400,74,30,1,7.6,"Abdominal",0,"G9D",52
+401,69,45,1,2.7,"Abdominal",0,"W4B",50
+402,76,56,0,4.9,"No Surgery",1,"Q2B",31
+403,70,40,1,6.5,"Orthopedic",1,"G0V",56
+404,50,49,1,6.6,"Plastic Surgery",0,"C1X",70
+405,58,43,0,6,"No Surgery",0,"L5P",61
+406,57,38,1,6.3,"Plastic Surgery",1,"P9S",56
+407,45,54,1,2.5,"Cardiovascular",0,"E6W",72
+408,29,66,0,6.2,"No Surgery",0,"B7F",93
+409,42,48,0,7.5,"No Surgery",1,"M6K",75
+410,63,53,1,3.8,"Cardiovascular",1,"U9R",62
+411,35,64,1,2.3,"Abdominal",0,"F5Q",83
+412,41,49,0,3,"No Surgery",1,"A9X",83
+413,30,44,1,4.8,"Plastic Surgery",1,"N0E",90
+414,37,41,1,4.1,"Plastic Surgery",1,"N7W",86
+415,53,54,0,3.7,"No Surgery",1,"G0W",79
+416,46,44,0,6,"No Surgery",1,"J2W",82
+417,43,52,1,3.3,"Neuro",0,"N0O",74
+418,72,41,0,5.7,"No Surgery",1,"K0Z",52
+419,57,42,0,4.3,"No Surgery",1,"B6L",70
+420,50,51,1,6.6,"Plastic Surgery",1,"J7C",73
+421,41,25,1,3.5,"Plastic Surgery",1,"P2M",76
+422,58,56,1,6.1,"Orthopedic",1,"Z2C",61
+423,29,66,0,3.3,"No Surgery",1,"M4S",93
+424,58,69,0,5.3,"No Surgery",0,"D0M",60
+425,27,41,0,3.5,"No Surgery",0,"L3G",84
+426,50,49,1,4.4,"Neuro",1,"L0R",68
+427,24,38,0,7.7,"No Surgery",0,"H6B",87
+428,63,55,1,7.4,"Abdominal",1,"U2S",60
+429,39,51,0,5.3,"No Surgery",1,"H4Q",73
+430,75,36,1,3.1,"Cardiovascular",0,"B0P",56
+431,75,21,1,6,"Plastic Surgery",1,"U7B",44
+432,41,44,1,4.5,"Neuro",1,"W9Y",81
+433,72,50,1,6.5,"Neuro",1,"S1Q",59
+434,35,39,1,6.7,"Plastic Surgery",0,"K9S",79
+435,55,54,0,2.5,"No Surgery",1,"O4W",60
+436,65,41,1,5.9,"Plastic Surgery",0,"K0T",55
+437,39,45,0,3.3,"No Surgery",1,"W2N",76
+438,42,41,0,3.7,"No Surgery",1,"G1R",65
+439,76,54,1,3.3,"Abdominal",0,"E6H",30
+440,67,40,0,5.9,"No Surgery",1,"S5R",50
+441,65,29,1,3.9,"Abdominal",1,"T8H",57
+442,27,44,1,2.5,"Abdominal",0,"M7C",87
+443,64,57,0,7.1,"No Surgery",1,"B9O",45
+444,39,61,1,5,"Plastic Surgery",0,"Z2M",73
+445,73,57,1,5.6,"Cardiovascular",1,"B1R",36
+446,78,27,1,7.8,"Plastic Surgery",1,"C0D",62
+447,63,41,0,5.6,"No Surgery",1,"D1L",62
+448,32,51,1,3.2,"Orthopedic",1,"W1C",86
+449,27,28,1,4.7,"Orthopedic",1,"R9D",89
+450,24,69,0,6.6,"No Surgery",1,"D3H",89
+451,40,31,1,3.2,"Abdominal",1,"W0O",79
+452,70,47,0,4.2,"No Surgery",0,"Y1C",53
+453,79,51,0,4.4,"No Surgery",1,"P0K",45
+454,27,35,1,5.8,"Cardiovascular",1,"M7M",90
+455,39,60,1,2.4,"Abdominal",1,"A3L",74
+456,29,25,1,4.8,"Plastic Surgery",0,"M7K",88
+457,42,54,1,6.9,"Abdominal",1,"H9T",73
+458,58,57,1,4.6,"Abdominal",1,"S0D",62
+459,77,44,1,4.6,"Abdominal",1,"U1V",64
+460,77,38,1,2.9,"Cardiovascular",0,"M6S",40
+461,25,52,1,3.2,"Plastic Surgery",0,"J0Z",85
+462,58,66,1,5.3,"Abdominal",0,"V7R",68
+463,73,42,1,4.1,"Abdominal",0,"C6Z",46
+464,31,54,1,4.6,"Plastic Surgery",1,"D9Y",84
+465,32,53,1,3,"Plastic Surgery",1,"A1S",79
+466,32,51,0,7.2,"No Surgery",0,"J0S",84
+467,78,30,1,5.5,"Orthopedic",1,"C4I",47
+468,63,44,1,5,"Neuro",1,"X2S",50
+469,58,36,0,5,"No Surgery",0,"X7Z",60
+470,63,46,0,4,"No Surgery",1,"Y7W",59
+471,27,40,0,4.9,"No Surgery",1,"T5D",85
+472,34,50,0,3.3,"No Surgery",1,"G3H",89
+473,72,53,0,3.3,"No Surgery",1,"T5O",47
+474,78,63,1,5.9,"Neuro",0,"W9N",38
+475,29,42,1,4.2,"Plastic Surgery",1,"O8F",83
+476,32,61,1,5.6,"Cardiovascular",1,"X0G",83
+477,45,69,1,2.6,"Plastic Surgery",0,"X3M",63
+478,37,38,0,3.6,"No Surgery",1,"T6J",82
+479,58,58,1,3.8,"Plastic Surgery",1,"R9V",55
+480,37,60,1,6.9,"Abdominal",1,"V3D",78
+481,64,56,1,4.3,"Plastic Surgery",1,"Z3K",54
+482,62,35,1,4.8,"Orthopedic",1,"S9R",62
+483,69,28,1,5.8,"Orthopedic",1,"U2H",48
+484,35,56,1,5.9,"Abdominal",1,"H5R",78
+485,66,67,0,4.9,"No Surgery",0,"V4M",52
+486,68,48,0,4.7,"No Surgery",0,"W3G",48
+487,72,50,1,7.4,"Plastic Surgery",1,"F2U",39
+488,74,44,0,3.7,"No Surgery",0,"A7W",44
+489,60,34,1,5.8,"Abdominal",1,"W5L",68
+490,31,53,0,3.1,"No Surgery",1,"I5A",88
+491,34,60,1,6.8,"Orthopedic",0,"W9T",78
+492,27,58,1,4.9,"Orthopedic",1,"J2Y",78
+493,38,29,1,3.7,"Plastic Surgery",0,"V7U",78
+494,29,56,1,4.7,"Abdominal",1,"J9C",89
+495,33,57,0,2.7,"No Surgery",1,"P0T",79
+496,50,46,0,2,"No Surgery",1,"Q8Z",78
+497,36,50,1,5.6,"Neuro",1,"Q1H",85
+498,48,49,1,3.6,"Orthopedic",0,"F9A",62
+499,71,60,0,5.3,"No Surgery",1,"M5G",51
+500,63,40,1,5.6,"Abdominal",1,"T5O",57
+501,59,44,0,4.7,"No Surgery",1,"M7B",69
+502,24,54,1,4.2,"Cardiovascular",1,"B9A",92
+503,78,44,0,3.4,"No Surgery",1,"N8C",55
+504,28,54,0,2.2,"No Surgery",1,"F2R",89
+505,58,34,0,6.5,"No Surgery",1,"U3Z",64
+506,49,42,1,3.6,"Cardiovascular",0,"U2U",72
+507,35,49,1,4,"Abdominal",1,"W9C",84
+508,58,51,1,5.3,"Plastic Surgery",1,"E4S",53
+509,61,45,0,5.5,"No Surgery",0,"N3J",63
+510,63,36,0,4.5,"No Surgery",1,"Q6W",60
+511,57,42,0,6.2,"No Surgery",1,"U2S",65
+512,62,58,1,5.2,"Neuro",0,"I2O",54
+513,75,62,1,2.7,"Plastic Surgery",1,"T5L",55
+514,44,46,1,3.6,"Abdominal",1,"J8I",76
+515,32,42,1,5.7,"Cardiovascular",0,"Q7S",82
+516,43,50,1,7.2,"Abdominal",1,"F4N",71
+517,30,49,1,4.8,"Abdominal",0,"E1H",83
+518,31,67,0,6.6,"No Surgery",1,"V5A",84
+519,44,51,1,3,"Plastic Surgery",1,"K4I",67
+520,25,39,0,4.8,"No Surgery",1,"N9U",92
+521,40,54,1,7,"Abdominal",0,"U6T",82
+522,74,49,1,3.7,"Abdominal",1,"D1W",41
+523,38,47,1,3.2,"Plastic Surgery",1,"P4V",82
+524,30,37,0,2.9,"No Surgery",0,"I3U",77
+525,73,45,1,2.8,"Cardiovascular",1,"A1U",42
+526,50,59,1,5.7,"Orthopedic",0,"P2L",75
+527,38,35,1,2.3,"Cardiovascular",1,"Q1F",85
+528,41,41,1,6.3,"Orthopedic",1,"A2T",83
+529,60,36,1,4,"Cardiovascular",1,"X0P",51
+530,46,47,0,6.2,"No Surgery",1,"K0Q",79
+531,69,39,0,2.7,"No Surgery",1,"Y0J",55
+532,74,52,0,5.5,"No Surgery",1,"N3E",50
+533,55,45,0,4.2,"No Surgery",1,"P8H",63
+534,73,47,1,5.7,"Abdominal",0,"Q2A",48
+535,41,36,1,2.9,"Neuro",0,"E0O",81
+536,78,43,1,5.8,"Abdominal",1,"V6K",38
+537,62,41,1,3.6,"Plastic Surgery",1,"I5J",65
+538,55,59,1,2.3,"Plastic Surgery",1,"M7U",51
+539,50,34,0,3.2,"No Surgery",0,"C3G",70
+540,26,50,1,5.5,"Plastic Surgery",1,"Y3G",88
+541,44,34,0,5.2,"No Surgery",0,"R2X",80
+542,47,52,0,5.8,"No Surgery",1,"L5J",77
+543,71,51,1,6.5,"Cardiovascular",1,"J3Q",44
+544,34,32,1,6.1,"Abdominal",1,"W9X",91
+545,31,59,0,3.2,"No Surgery",1,"E9K",91
+546,29,41,1,3.2,"Cardiovascular",1,"W3Y",81
+547,33,38,1,6.3,"Plastic Surgery",1,"Q2N",86
+548,69,50,0,6.5,"No Surgery",1,"D4V",39
+549,70,43,1,4.7,"Plastic Surgery",1,"Q5E",57
+550,53,45,0,3.2,"No Surgery",1,"W9X",73
+551,36,57,1,3.3,"Cardiovascular",1,"T3G",84
+552,44,55,0,5.4,"No Surgery",1,"N1Q",71
+553,26,48,0,4.3,"No Surgery",1,"W9Z",85
+554,52,41,1,4.6,"Orthopedic",0,"T2L",74
+555,42,50,1,5.2,"Plastic Surgery",1,"K7V",70
+556,57,52,1,3.5,"Cardiovascular",0,"C4Z",57
+557,31,40,1,3.8,"Plastic Surgery",0,"E3B",85
+558,73,52,1,4.9,"Plastic Surgery",1,"V5U",49
+559,77,40,0,4.7,"No Surgery",1,"U1F",30
+560,57,45,0,6.1,"No Surgery",1,"Q2G",69
+561,35,46,1,2.6,"Cardiovascular",1,"A0A",80
+562,78,64,0,4,"No Surgery",1,"K7B",37
+563,73,58,0,5.2,"No Surgery",1,"O0T",50
+564,42,42,1,4.4,"Orthopedic",1,"Y8Y",80
+565,49,24,1,4,"Neuro",1,"X7P",75
+566,69,56,0,2.8,"No Surgery",0,"B8T",44
+567,52,36,1,6.2,"Cardiovascular",0,"G5K",75
+568,47,52,0,3,"No Surgery",0,"A4S",73
+569,54,53,1,6.6,"Plastic Surgery",1,"V8E",61
+570,77,50,0,5.4,"No Surgery",1,"I1B",38
+571,38,39,0,2.8,"No Surgery",1,"K6G",80
+572,46,20,0,6.1,"No Surgery",1,"N2N",75
+573,32,29,1,5.6,"Neuro",1,"K9Q",86
+574,37,36,0,4.2,"No Surgery",1,"Q0J",85
+575,59,47,1,3.6,"Orthopedic",1,"E8H",48
+576,30,46,1,2.4,"Plastic Surgery",0,"L7S",82
+577,54,56,1,4.7,"Abdominal",0,"K0U",68
+578,61,37,0,4.2,"No Surgery",1,"H8O",57
+579,35,41,0,2.5,"No Surgery",1,"B5V",82
+580,52,44,0,4.7,"No Surgery",1,"Z3T",65
+581,47,55,0,5,"No Surgery",0,"J1Z",73
+582,72,39,0,4.5,"No Surgery",1,"Z6L",41
+583,45,70,1,4.2,"Neuro",1,"A7N",84
+584,58,47,0,2.9,"No Surgery",0,"G9J",67
+585,72,52,1,5.3,"Plastic Surgery",1,"O7C",59
+586,69,63,1,3,"Orthopedic",0,"H9Q",51
+587,37,62,0,2.8,"No Surgery",1,"R0R",74
+588,39,50,0,2.6,"No Surgery",1,"U9P",77
+589,58,48,0,5.7,"No Surgery",0,"B0W",62
+590,43,33,0,5.6,"No Surgery",0,"E3W",80
+591,41,40,1,6.6,"Abdominal",1,"N2X",75
+592,50,61,1,6.9,"Plastic Surgery",1,"Q0V",62
+593,64,48,0,6.6,"No Surgery",1,"F6G",53
+594,56,55,1,6.4,"Neuro",1,"E6X",58
+595,62,57,1,2.3,"Cardiovascular",1,"G8X",57
+596,54,60,1,5.5,"Cardiovascular",0,"X1F",63
+597,54,34,1,4.9,"Neuro",1,"B9U",69
+598,38,46,1,4.5,"Neuro",1,"M8X",80
+599,69,61,0,4.9,"No Surgery",1,"T8W",50
+600,49,37,1,5.7,"Abdominal",0,"P6P",74
+601,65,57,1,5.6,"Cardiovascular",0,"E1U",48
+602,39,29,1,5.4,"Cardiovascular",1,"G7A",77
+603,31,36,1,6.2,"Plastic Surgery",1,"J4X",81
+604,65,45,0,2.3,"No Surgery",1,"B9X",56
+605,27,51,1,4.7,"Neuro",0,"A2V",86
+606,60,50,0,6.4,"No Surgery",1,"T6L",66
+607,37,54,0,6.6,"No Surgery",1,"C8J",79
+608,69,47,1,3,"Plastic Surgery",0,"N9D",38
+609,59,33,0,3.4,"No Surgery",1,"E2W",60
+610,75,49,0,5.7,"No Surgery",1,"T0O",41
+611,49,44,0,3.5,"No Surgery",1,"J1V",73
+612,64,35,1,4.3,"Plastic Surgery",0,"Q1N",71
+613,33,60,0,5.4,"No Surgery",1,"O5N",79
+614,32,37,0,2.8,"No Surgery",0,"M7W",89
+615,28,50,0,6.8,"No Surgery",1,"G8M",86
+616,40,36,1,3.5,"Cardiovascular",1,"Z8T",85
+617,60,43,1,3,"Neuro",0,"A4R",61
+618,48,67,0,4.6,"No Surgery",1,"B6V",61
+619,63,50,1,4.7,"Cardiovascular",0,"G2L",50
+620,64,58,0,4.9,"No Surgery",1,"Y3R",60
+621,43,44,1,4.2,"Cardiovascular",0,"D2C",70
+622,24,53,1,3.7,"Plastic Surgery",1,"K3D",87
+623,51,45,0,7.3,"No Surgery",1,"P8C",67
+624,40,45,1,4,"Neuro",1,"I3W",81
+625,53,40,1,7,"Plastic Surgery",1,"S0Q",73
+626,32,25,1,3.2,"Plastic Surgery",1,"A5Y",91
+627,78,45,1,4.5,"Neuro",0,"Q8T",50
+628,54,45,1,4.5,"Abdominal",1,"I1W",59
+629,50,31,1,3.1,"Abdominal",0,"O2U",77
+630,64,52,1,6.2,"Plastic Surgery",1,"L9U",48
+631,67,56,0,4.6,"No Surgery",1,"G1P",51
+632,53,55,1,7.1,"Abdominal",1,"F3V",67
+633,67,44,1,3.8,"Cardiovascular",1,"L8X",56
+634,47,48,1,4,"Neuro",1,"F3O",73
+635,27,35,1,5.8,"Abdominal",1,"B5D",85
+636,57,47,0,4.8,"No Surgery",1,"B5S",62
+637,43,49,1,3.7,"Abdominal",0,"T7U",78
+638,60,59,1,4.1,"Plastic Surgery",1,"H0P",54
+639,53,36,0,4.3,"No Surgery",1,"C4V",72
+640,59,56,0,6.9,"No Surgery",1,"V1X",61
+641,50,61,1,2.6,"Neuro",1,"G5K",69
+642,63,51,0,5,"No Surgery",0,"J9W",52
+643,49,31,1,4,"Abdominal",0,"P6X",79
+644,41,53,0,2,"No Surgery",1,"B1Y",72
+645,25,44,1,6.7,"Neuro",1,"T7R",95
+646,78,43,0,7.1,"No Surgery",1,"J0A",44
+647,60,59,0,3.4,"No Surgery",1,"O5S",46
+648,57,44,1,4.1,"Abdominal",1,"S9L",63
+649,49,53,1,3.3,"Abdominal",0,"H7P",76
+650,76,44,0,4.1,"No Surgery",1,"U1M",47
+651,61,36,1,3.3,"Cardiovascular",1,"Y7Y",70
+652,35,41,1,6.5,"Orthopedic",0,"N2R",84
+653,59,43,1,3.3,"Cardiovascular",1,"I6A",56
+654,45,48,0,7.8,"No Surgery",0,"E3Q",70
+655,68,55,0,3.5,"No Surgery",1,"K8A",54
+656,62,70,0,2.4,"No Surgery",1,"X5V",72
+657,24,52,0,3.2,"No Surgery",1,"L4E",91
+658,69,58,1,2.8,"Plastic Surgery",0,"J3Z",48
+659,47,76,0,6.4,"No Surgery",1,"L4M",62
+660,29,57,1,5.7,"Plastic Surgery",1,"H0Y",80
+661,57,54,0,4.7,"No Surgery",1,"U4O",63
+662,47,58,1,5.9,"Orthopedic",1,"R3I",65
+663,51,47,1,3.1,"Abdominal",1,"N5O",75
+664,58,49,1,4.9,"Neuro",0,"S1C",60
+665,58,17,0,3.1,"No Surgery",1,"Y4Q",68
+666,57,61,1,5.4,"Plastic Surgery",1,"B9D",51
+667,51,43,0,4.1,"No Surgery",1,"G6W",67
+668,75,52,0,7.2,"No Surgery",1,"F5I",37
+669,34,54,0,5.7,"No Surgery",1,"O7L",86
+670,29,56,0,1.9,"No Surgery",0,"T3F",88
+671,68,41,1,4.3,"Cardiovascular",1,"H9C",62
+672,28,38,1,4.4,"Plastic Surgery",1,"M2H",90
+673,76,49,1,3,"Neuro",1,"D3K",40
+674,70,53,1,5.5,"Abdominal",1,"W3C",48
+675,30,39,1,4.7,"Orthopedic",1,"R0P",91
+676,57,42,0,4,"No Surgery",0,"N5C",74
+677,40,63,1,4.6,"Abdominal",1,"G5M",70
+678,27,44,1,4.8,"Abdominal",0,"D5F",92
+679,77,38,0,6.6,"No Surgery",1,"Y6H",39
+680,47,40,0,5.1,"No Surgery",0,"A7X",66
+681,48,38,1,5.9,"Abdominal",1,"B3H",78
+682,52,45,0,7,"No Surgery",1,"X2R",58
+683,64,45,1,4.6,"Orthopedic",1,"Y2Q",74
+684,60,40,1,7.6,"Abdominal",1,"Y3I",72
+685,58,69,0,5.5,"No Surgery",1,"R3K",66
+686,51,46,0,7.6,"No Surgery",1,"M9A",69
+687,56,65,1,6.2,"Cardiovascular",1,"B2N",43
+688,45,54,1,5.4,"Cardiovascular",1,"H0Q",74
+689,52,46,1,5.7,"Cardiovascular",1,"W3J",70
+690,39,43,0,3.5,"No Surgery",0,"Y7L",77
+691,57,58,1,5.7,"Plastic Surgery",0,"D7B",54
+692,67,67,1,2.8,"Orthopedic",1,"W4N",48
+693,25,61,1,5.9,"Orthopedic",1,"J7Z",77
+694,54,42,1,6.8,"Cardiovascular",1,"C9V",62
+695,28,39,0,2.3,"No Surgery",0,"J3X",95
+696,31,61,0,3.7,"No Surgery",1,"P3G",82
+697,59,59,1,3.1,"Abdominal",1,"Z7P",61
+698,47,51,0,6.1,"No Surgery",1,"H0J",65
+699,43,41,1,5.5,"Cardiovascular",1,"Y4R",80
+700,48,61,0,6,"No Surgery",0,"C0L",67
+701,53,53,1,3.4,"Plastic Surgery",1,"H1D",65
+702,54,57,0,4.7,"No Surgery",0,"Q8A",62
+703,25,43,1,6.9,"Plastic Surgery",1,"Z8X",86
+704,56,49,0,6.8,"No Surgery",1,"M4X",57
+705,59,49,0,2.2,"No Surgery",1,"M7G",62
+706,47,55,0,7.1,"No Surgery",0,"M4B",69
+707,61,42,0,4.3,"No Surgery",1,"A3G",63
+708,64,44,0,3.7,"No Surgery",0,"C6O",60
+709,59,33,1,5.9,"Cardiovascular",0,"I1M",57
+710,39,50,0,4.7,"No Surgery",1,"C3H",79
+711,60,55,1,3.4,"Abdominal",1,"K8J",54
+712,45,48,1,6.7,"Abdominal",0,"M3U",74
+713,71,50,0,3.9,"No Surgery",0,"Q7X",44
+714,46,41,0,2.4,"No Surgery",1,"E3I",69
+715,50,66,1,6.2,"Cardiovascular",1,"H4I",64
+716,41,33,1,3,"Orthopedic",0,"H5N",87
+717,41,46,1,5.3,"Plastic Surgery",1,"P6R",71
+718,30,44,0,4.4,"No Surgery",1,"P7U",84
+719,68,32,1,5.2,"Cardiovascular",1,"V3N",61
+720,51,61,1,3.9,"Abdominal",1,"A6I",50
+721,58,39,1,4.6,"Orthopedic",1,"G8O",66
+722,63,57,1,3.7,"Cardiovascular",1,"L7I",56
+723,55,40,0,5.2,"No Surgery",1,"C4Q",71
+724,73,57,1,7,"Neuro",1,"V8Y",37
+725,76,63,1,5.5,"Cardiovascular",1,"S5W",30
+726,65,43,1,3.6,"Neuro",0,"D5Y",50
+727,26,65,0,4.9,"No Surgery",0,"Q3Z",88
+728,62,43,0,6.2,"No Surgery",0,"E9U",60
+729,74,31,0,5.9,"No Surgery",1,"X6C",51
+730,50,40,0,6,"No Surgery",1,"D2K",74
+731,30,46,1,3.2,"Cardiovascular",1,"V3H",87
+732,46,62,0,3.1,"No Surgery",0,"M9P",59
+733,77,43,1,6.5,"Abdominal",1,"F0U",43
+734,67,61,0,4.5,"No Surgery",0,"X0O",41
+735,30,41,0,7.2,"No Surgery",1,"M7H",89
+736,57,44,0,4,"No Surgery",0,"F3N",61
+737,55,42,0,7.4,"No Surgery",1,"H8T",62
+738,61,54,1,3.2,"Abdominal",1,"A1U",72
+739,73,41,1,5.3,"Cardiovascular",1,"J2D",47
+740,65,44,0,6.8,"No Surgery",1,"B2C",57
+741,31,45,1,3.5,"Cardiovascular",0,"B4S",84
+742,34,48,1,2.2,"Cardiovascular",1,"V9T",89
+743,32,48,0,3.5,"No Surgery",1,"X7H",85
+744,61,59,0,6.2,"No Surgery",0,"I1X",51
+745,72,39,1,5.6,"Plastic Surgery",0,"P3G",53
+746,65,54,1,5.1,"Abdominal",0,"Y3N",58
+747,32,37,0,5.9,"No Surgery",0,"M7J",89
+748,65,27,0,3.8,"No Surgery",1,"K9K",58
+749,71,45,1,3.7,"Plastic Surgery",0,"B0P",38
+750,42,43,0,5.2,"No Surgery",1,"Y1G",82
+751,64,65,1,5.8,"Plastic Surgery",1,"S1O",46
+752,73,52,1,4.3,"Orthopedic",1,"L2J",41
+753,45,40,1,3.9,"Neuro",1,"I7E",74
+754,31,42,1,3.7,"Neuro",1,"Z8O",85
+755,66,42,0,5.8,"No Surgery",1,"Q5Q",45
+756,58,58,0,2.9,"No Surgery",1,"S5K",51
+757,48,52,0,5,"No Surgery",1,"E7I",66
+758,69,36,1,4.9,"Plastic Surgery",1,"J3K",49
+759,48,44,1,5.1,"Neuro",1,"K0G",74
+760,77,35,1,5.7,"Cardiovascular",1,"L3M",54
+761,27,45,1,5.9,"Abdominal",1,"P6O",89
+762,27,60,0,5.5,"No Surgery",1,"B1O",80
+763,51,44,0,3.6,"No Surgery",0,"K7V",72
+764,67,53,1,4.9,"Neuro",1,"P4I",43
+765,36,48,1,4.1,"Plastic Surgery",0,"Q6H",70
+766,77,46,0,3.2,"No Surgery",1,"Z8V",30
+767,63,38,1,6.8,"Plastic Surgery",1,"V1X",65
+768,45,63,1,5.5,"Neuro",1,"K4Z",71
+769,65,56,1,4.9,"Plastic Surgery",1,"T7M",54
+770,77,48,0,4.2,"No Surgery",1,"X2Y",59
+771,72,45,1,6.4,"Orthopedic",0,"X8F",53
+772,69,42,0,4.6,"No Surgery",0,"K0W",51
+773,25,55,0,4.4,"No Surgery",0,"S2T",81
+774,47,42,1,4.1,"Orthopedic",0,"F3R",58
+775,54,42,0,3.5,"No Surgery",1,"V3Z",75
+776,25,43,1,4.1,"Neuro",1,"W0G",93
+777,77,36,0,3.2,"No Surgery",1,"V5I",47
+778,35,35,0,3.2,"No Surgery",1,"V3M",86
+779,74,43,0,7.2,"No Surgery",0,"R9V",56
+780,76,66,0,4.6,"No Surgery",1,"Z2A",29
+781,70,11,1,5.9,"Plastic Surgery",0,"O5P",56
+782,77,67,0,6.7,"No Surgery",1,"P5E",37
+783,30,25,0,3.1,"No Surgery",1,"O3J",89
+784,62,59,1,4,"Plastic Surgery",1,"N5X",62
+785,76,34,1,6.7,"Cardiovascular",0,"C7J",34
+786,41,45,1,7.1,"Abdominal",1,"Q3A",74
+787,51,41,1,3.3,"Plastic Surgery",1,"W2C",63
+788,27,50,1,6.3,"Neuro",1,"X4A",89
+789,58,32,1,5.3,"Cardiovascular",1,"O9A",66
+790,43,51,0,3.5,"No Surgery",1,"P8H",72
+791,75,39,1,6.4,"Plastic Surgery",1,"I8L",43
+792,52,37,0,3.2,"No Surgery",1,"F6F",66
+793,39,60,1,4.1,"Orthopedic",0,"I0L",69
+794,59,44,1,5.3,"Cardiovascular",0,"S4X",66
+795,55,38,0,5,"No Surgery",1,"Y0S",67
+796,77,54,1,5.1,"Abdominal",1,"I7B",47
+797,36,58,0,6.3,"No Surgery",1,"G0K",75
+798,37,44,0,4.4,"No Surgery",1,"G4Y",81
+799,34,54,1,4.6,"Abdominal",1,"V4M",77
+800,67,58,1,2.9,"Abdominal",1,"C6G",54
+801,34,45,0,2.5,"No Surgery",0,"N1E",78
+802,25,42,1,4.7,"Abdominal",0,"R3O",84
+803,66,52,0,5.5,"No Surgery",1,"C3N",51
+804,27,40,0,2.4,"No Surgery",1,"M7L",96
+805,47,56,0,5.5,"No Surgery",1,"Y5T",68
+806,32,62,1,3.1,"Cardiovascular",0,"J0I",87
+807,46,53,1,7.3,"Abdominal",1,"H9L",68
+808,73,37,0,4.3,"No Surgery",0,"T9L",56
+809,66,41,1,4.3,"Plastic Surgery",1,"Z9C",60
+810,40,51,0,4.9,"No Surgery",0,"S4L",75
+811,55,40,1,6,"Abdominal",1,"X4C",61
+812,65,46,0,6.1,"No Surgery",1,"Y1S",61
+813,32,55,0,3,"No Surgery",0,"C0G",80
+814,75,38,1,6.5,"Abdominal",0,"M0J",42
+815,26,41,0,6.3,"No Surgery",1,"U1C",86
+816,70,57,1,3.4,"Plastic Surgery",0,"F9W",37
+817,29,60,0,6.4,"No Surgery",1,"A5T",81
+818,57,41,0,3.9,"No Surgery",1,"Y2W",72
+819,71,48,0,5.3,"No Surgery",0,"B4G",46
+820,70,56,1,6.4,"Cardiovascular",1,"D7D",54
+821,78,48,0,4.7,"No Surgery",1,"V9P",54
+822,37,60,1,6.4,"Plastic Surgery",0,"A1H",77
+823,55,48,0,3.3,"No Surgery",0,"H9T",66
+824,42,58,1,7.5,"Plastic Surgery",1,"B0Y",70
+825,26,31,1,4.4,"Neuro",0,"P5G",97
+826,75,43,1,5.8,"Plastic Surgery",1,"H6D",48
+827,58,58,0,6.9,"No Surgery",1,"H7Y",56
+828,27,53,0,3.3,"No Surgery",1,"H5A",81
+829,73,40,0,4.8,"No Surgery",0,"J7U",44
+830,65,43,1,4.7,"Cardiovascular",0,"I0R",61
+831,45,44,1,4,"Neuro",1,"V2X",68
+832,43,55,1,5.7,"Orthopedic",1,"C3W",66
+833,41,50,0,5.3,"No Surgery",1,"N8A",73
+834,30,44,0,4.6,"No Surgery",1,"R7F",84
+835,33,55,1,4.5,"Abdominal",1,"I2E",76
+836,60,34,1,2.1,"Cardiovascular",0,"J2P",65
+837,46,36,0,4.2,"No Surgery",1,"R2S",69
+838,28,56,1,2.2,"Plastic Surgery",1,"L2O",81
+839,77,46,0,6,"No Surgery",1,"T4M",43
+840,49,39,1,6.9,"Abdominal",1,"Z3M",76
+841,64,36,1,5.5,"Plastic Surgery",1,"D3J",56
+842,66,27,0,6,"No Surgery",0,"H5S",62
+843,50,58,1,6.5,"Cardiovascular",1,"P2D",64
+844,73,59,0,4.4,"No Surgery",1,"Z6W",39
+845,34,52,1,4.1,"Abdominal",0,"N5L",85
+846,37,46,0,4,"No Surgery",0,"E3A",79
+847,35,56,1,5.6,"Orthopedic",0,"X2N",76
+848,61,56,1,5.4,"Cardiovascular",1,"C7U",51
+849,25,46,1,3.6,"Cardiovascular",1,"P8X",93
+850,61,56,1,4.2,"Plastic Surgery",1,"O2B",57
+851,60,56,1,6.2,"Orthopedic",1,"I3G",54
+852,59,45,0,4.5,"No Surgery",1,"L7O",54
+853,27,66,1,6.6,"Abdominal",1,"P2J",84
+854,44,63,0,3.1,"No Surgery",0,"L0S",63
+855,30,55,1,4.3,"Abdominal",1,"Y5V",80
+856,43,45,0,7.5,"No Surgery",1,"F7G",75
+857,27,49,1,3.9,"Orthopedic",1,"H1G",83
+858,72,40,0,4.2,"No Surgery",1,"B6D",57
+859,38,36,1,5.9,"Orthopedic",1,"Q7U",74
+860,62,42,1,7.1,"Cardiovascular",1,"G1F",57
+861,59,55,0,4.8,"No Surgery",1,"E1Q",66
+862,36,50,0,5,"No Surgery",1,"T7X",76
+863,76,49,1,5.4,"Orthopedic",1,"K6C",51
+864,65,44,1,6.3,"Orthopedic",1,"V3B",60
+865,31,30,0,5.2,"No Surgery",1,"S3F",85
+866,70,39,0,4.2,"No Surgery",1,"U6B",53
+867,66,26,1,3.3,"Cardiovascular",1,"A0N",61
+868,78,60,1,3.2,"Cardiovascular",1,"D8K",41
+869,44,37,0,6.4,"No Surgery",1,"D9I",80
+870,42,49,0,4.8,"No Surgery",1,"Q7I",79
+871,28,50,1,4.4,"Cardiovascular",1,"W4Z",87
+872,73,53,1,5.9,"Neuro",1,"G9Q",46
+873,54,53,0,7,"No Surgery",1,"O2Y",55
+874,24,49,1,5,"Neuro",0,"T2W",91
+875,66,41,1,3.2,"Neuro",1,"X9B",51
+876,37,54,1,4.4,"Abdominal",0,"L4I",80
+877,42,34,0,5.7,"No Surgery",1,"Q9Z",77
+878,34,31,0,6.4,"No Surgery",1,"R3L",87
+879,54,50,0,3.3,"No Surgery",1,"S8H",54
+880,54,45,1,5.7,"Cardiovascular",1,"X0B",64
+881,72,51,1,3.8,"Abdominal",1,"X7A",42
+882,51,56,0,7.6,"No Surgery",1,"V9Y",65
+883,42,53,0,6.1,"No Surgery",1,"K8V",77
+884,33,46,0,4.8,"No Surgery",1,"Q0I",84
+885,32,40,1,4.1,"Plastic Surgery",1,"F8F",87
+886,65,44,1,4.9,"Orthopedic",1,"Z4G",59
+887,25,49,1,4.5,"Abdominal",0,"Q8W",90
+888,59,39,0,4,"No Surgery",0,"M4A",64
+889,33,59,0,7.8,"No Surgery",0,"J6I",93
+890,62,33,0,6.4,"No Surgery",1,"I7X",64
+891,51,50,0,6.3,"No Surgery",1,"J5A",71
+892,59,41,0,4.6,"No Surgery",1,"B3V",56
+893,75,49,1,4.9,"Orthopedic",1,"E1E",48
+894,73,48,0,5.3,"No Surgery",1,"N8T",48
+895,45,47,1,5.7,"Neuro",0,"P4T",77
+896,41,35,0,6.7,"No Surgery",1,"Q4R",86
+897,40,45,0,7,"No Surgery",0,"I1Q",77
+898,70,41,0,7,"No Surgery",1,"X3D",44
+899,26,48,0,5.6,"No Surgery",0,"S0F",87
+900,53,46,0,4,"No Surgery",1,"Y7D",70
+901,39,56,1,5.5,"Orthopedic",1,"Z3J",80
+902,60,29,1,4.8,"Abdominal",1,"W7N",58
+903,74,55,0,3.3,"No Surgery",1,"A1V",42
+904,52,43,0,3.2,"No Surgery",0,"J9P",79
+905,25,51,0,3.1,"No Surgery",0,"T9H",102
+906,34,51,1,5.1,"Abdominal",0,"A4X",85
+907,61,42,0,3.9,"No Surgery",1,"T1K",53
+908,40,49,0,3,"No Surgery",0,"Q7U",79
+909,28,34,0,5.7,"No Surgery",1,"J3F",95
+910,28,43,1,3,"Abdominal",1,"M3R",88
+911,25,45,1,4,"Orthopedic",1,"J7B",86
+912,56,48,0,4,"No Surgery",1,"C4A",65
